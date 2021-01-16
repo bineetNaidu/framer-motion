@@ -41,7 +41,7 @@ const Home = () => {
         </motion.button>
       </Link>
 
-      <Loader />
+      {/* <Loader /> */}
     </motion.div>
   );
 };
